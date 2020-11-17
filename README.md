@@ -70,6 +70,8 @@ Download : [OTA](https://storage.googleapis.com/essential-static/PH1-OTA-NMJ20D.
 * October 2017 Release | Nougat 7.1.1 - NMI81C(Open Market/Sprint/Telus)
 Download : [OTA](https://storage.googleapis.com/essential-static/PH1-OTA-NMI81C.zip) | [Image](https://storage.googleapis.com/essential-static/PH1-Images-NMI81C.zip)
 
+# CAUTION: If you're trying to downgrade to a lower OS version, you need to download the Fastboot file and follow the How to Flash instructions. OTA will not work for downgrading.
+
 # Flashing Instructions
 
 * Set up your computer for flashing
@@ -106,3 +108,59 @@ After flashing, it’s a good idea to relock your bootloader for security.
 
 * Go back to fastboot mode
 Run the command: fastboot flashing lock
+
+# Before Sideloading
+* Caution: Before updating, backup any personal data on your device—so you can recover it if you encounter an issue.
+
+* And Sideloading is for OTA, only! If you're trying to downgrade to a lower OS version, download the Fastboot file and follow the How to Flash instructions.
+
+* Some users have reported issues when flashing or sideloading using a USB 2.0 cable. The cable included with PH-1 is USB 2.0 and is primarily intended for charging. If you're flashing or sideloading PH-1, we recommend using a high-quality, spec-compliant USB 3.0 (or higher) cable.
+
+* To sideload a device using the image below, you’ll need the latest [ADB tool](https://developer.android.com/studio/releases/platform-tools.html). Don't forget to either add adb to your PATH environment variable or change into the directory containing the executable.
+
+* Also, set up USB access for your device, as described in [Run Apps on a Hardware Device](https://developer.android.com/studio/run/device.html).
+
+* Finally, check to see if there’s a pending OTA update for your device. Tap Settings > About phone > System updates, then tap Check for update. If your system is up-to-date, you can continue with the sideload. If not, update your device before continuing.
+
+# How to Sideload (for OTA only):
+* Download the appropriate update image to your computer
+* Verify the checksum of the image. The OTA mechanism has a built-in validation feature, but verifying will save you some time if the file is incomplete. The last portion of the filename is the first 8 digits of its SHA-256 checksum; the full SHA-256 checksum is also shown next to the download link.
+* Make sure USB debugging is enabled, then execute: adb reboot recovery
+* If you're unable to use ADB to reboot into recovery, you can use the key combination for your device. To get into Fastboot, press Volume-Down + Power buttons. For Recovery mode, press Volume-Up + Power buttons.
+* Then, navigate to the Recovery option by pressing the Volume-Down button. Once Recovery is highlighted, press the Power button to confirm.
+## Your device is now in Recovery mode. An Android logo with red exclamation mark should appear on screen.
+* Hold the Power button, then press the Volume-Up button one time. When the menu appears, select Apply update from ADB.
+* Run the following command: adb devices. Then check that your device shows up with “sideload” next to its name
+* Run the following command: adb sideload ota_file.zip where ota_file.zip is the name of the file you downloaded and verified
+* Once the update finishes, select Reboot system now to reboot your phone
+## For security, you should disable USB debugging when the device is not being updated.
+
+# How to Flash (for Fastboot only):
+## Set up your computer for flashing
+* Download the fastboot tool from the [Android SDK Platform-Tools](https://developer.android.com/studio/releases/platform-tools.html) package
+* Add it to your path so the flash scripts can find it
+* Connect your Essential phone to your computer with a USB cable
+## Enable unlocking
+### Before you can flash a new image, ensure Developer options are enabled and OEM unlocking is turned on. To do this:
+* Tap Settings, then tap System > About phone
+* Scroll to the bottom of the page, then tap Build number multiple times until you see the pop-up message “You are now a developer” (It usually takes seven taps)
+* Go back one screen to System, then tap Developer options
+* Find the option: OEM Unlocking and turn it on
+## Fastboot mode
+### Put your Essential Phone into fastboot mode by doing either of the following:
+* Use the ADB tool packaged above to run the command: adb reboot bootloader
+* Reboot your phone while holding the Volume-down button
+## Unlock your bootloader
+### NOTE: Installing the factory image will erase all information from your device. So remember to backup your phone before continuing.
+* Run the command: fastboot flashing unlock
+* Press the Volume-down button to navigate to the YES option, then press the Power button to confirm
+## Flash your factory image
+* Download the factory image to your computer
+* Unzip the downloaded file
+* Go to where you unzipped the images
+* For Linux / Mac OS X - Run the command: flashall.sh
+For Windows - Run the command: flashall.bat
+## Relock your bootloader (Only if you are on stock)
+### After flashing, it’s a good idea to relock your bootloader for security.
+* Go back to fastboot mode
+* Run the command: fastboot flashing lock
