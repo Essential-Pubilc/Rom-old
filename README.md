@@ -29,8 +29,48 @@ Download : [OTA](https://storage.cloud.google.com/essential-static/PH1-OTA-PQ1A.
 Download : [OTA](https://storage.cloud.google.com/essential-static/PH1-OTA-PQ1A.190105.058.zip) | [Image](https://storage.cloud.google.com/essential-static/PH1-Images-PQ1A.190105.058.zip)
 * April 2019 Release | Pie 9 - P Release 9 - PQ1A.190105.045
 Download : [OTA](https://storage.cloud.google.com/essential-static/PH1-OTA-PQ1A.190105.045.zip) | [Image](https://storage.cloud.google.com/essential-static/PH1-Images-PQ1A.190105.045.zip)
+* March 2019 Release | Pie 9 - P Release 8 - PQ1A.190105.024(Open Market/Telus)
+Download : [OTA](https://storage.cloud.google.com/essential-static/PH1-OTA-PQ1A.190105.024.zip) | [Image](https://storage.cloud.google.com/essential-static/PH1-Images-PQ1A.190105.024.zip)
+* February 2019 Release | Pie 9 - P Release 7 - PQ1A.190105.014
+Download : [OTA](https://storage.cloud.google.com/essential-static/PH1-OTA-PQ1A.190105.014.zip) | [Image](https://storage.cloud.google.com/essential-static/PH1-Images-PQ1A.190105.014.zip)
+* January 2019 Release | Pie 9 - P Release 6 - PPR1.181005.116
+Download : [OTA](https://storage.googleapis.com/essential-static/PH1-OTA-PPR1.181005.116.zip) | [Image](https://storage.googleapis.com/essential-static/PH1-Images-PPR1.181005.116.zip)
+* December 2018 Release | Pie 9 - P Release 5 - PPR1.181005.099
+Download : [OTA](https://storage.googleapis.com/essential-static/PH1-OTA-PPR1.181005.099.zip) | [Image](https://storage.googleapis.com/essential-static/PH1-Images-PPR1.181005.099.zip)
+* November 2018 Release | Android 9 Pie, Release 4 - PPR1.181005.076
+Download : [OTA](https://storage.cloud.google.com/essential-static/PH1-OTA-PPR1.181005.076.zip) | [Image](https://storage.cloud.google.com/essential-static/PH1-Images-PPR1.181005.076.zip)
+* October 2018 Release | Android 9 Pie, Release 3 - PPR1.181005.034
+Download : [OTA](https://storage.googleapis.com/essential-static/PH1-OTA-PPR1.181005.034.zip) | [Image](https://storage.googleapis.com/essential-static/PH1-Images-PPR1.181005.034.zip)
+* September 2018 Release | Android 9 Pie, Release 2 - PPR1.180905.036
+Download : [OTA](https://storage.googleapis.com/essential-static/PH1-OTA-PPR1.180905.036.zip) | [Image](https://storage.googleapis.com/essential-static/PH1-Images-PPR1.180905.036.zip)
+* August 2018 Release | Android 9 Pie, Release 1 - PPR1.180610.091
+Download : [OTA](https://storage.googleapis.com/essential-static/PH1-OTA-PPR1.180610.091.zip) | [Image](https://storage.googleapis.com/essential-static/PH1-Images-PPR1.180610.091.zip)
+# Android Oreo(8.0 and above)
+* July 2018 Release | Oreo 8.1 - OPM1.180104.267(Sprint)
+Download : [OTA](https://storage.googleapis.com/essential-static/PH1-OTA-OPM1.180104.267.zip) | [Image](https://storage.googleapis.com/essential-static/PH1-Images-OPM1.180104.267.zip)
+* June 2018 Release | Oreo 8.1 - OPM1.180104.234(*Note: This update fixes the DefCon reported issue)
+Download : [OTA](https://storage.googleapis.com/essential-static/PH1-OTA-OPM1.180104.234.zip) | [Image](https://storage.googleapis.com/essential-static/PH1-Images-OPM1.180104.234.zip)
+* May 2018 Release | Oreo 8.1 - OPM1.180104.166(Open Market/Sprint/Telus)
+Download : [OTA](https://storage.googleapis.com/essential-static/PH1-OTA-OPM1.180104.166.zip) | [Image](https://storage.googleapis.com/essential-static/PH1-Images-OPM1.180104.166.zip)
+* April 2018 Release | Oreo 8.1 - OPM1.180104.141(Open Market/Sprint/Telus)
+Download : [OTA](https://storage.googleapis.com/essential-static/PH1-OTA-OPM1.180104.141.zip) | [Image](https://storage.googleapis.com/essential-static/PH1-Images-OPM1.180104.141.zip)
+* March 2018 Release | Oreo 8.1 - OPM1.180104.092(Open Market)
+Download : [OTA](https://storage.googleapis.com/essential-static/PH1-OTA-OPM1.180104.092.zip) | [Image](https://storage.googleapis.com/essential-static/PH1-Images-OPM1.180104.092.zip)
+* January 2018 Release | Oreo 8.0 - OPM1.170911.254(*Oreo Beta 3 Release)
+Download : [OTA](https://storage.googleapis.com/essential-static/PH1-OTA-OPM1.170911.254.zip) | [Image](https://storage.googleapis.com/essential-static/PH1-Images-OPM1.170911.254.zip)
+# Android Nougat (7.0 and above)
+* February 2018 Release | Nougat 7.1.1 - NMK24B(Open Market/Sprint/Telus)
+Download : [OTA](https://storage.googleapis.com/essential-static/PH1-OTA-NMK24B.zip) | [Image](https://storage.googleapis.com/essential-static/PH1-Images-NMK24B.zip)
+* January 2018 Release | Nougat 7.1.1 - NMJ88C(Open Market)
+Download : [OTA](https://storage.googleapis.com/essential-static/PH1-OTA-NMJ88C.zip) | [Image](https://storage.googleapis.com/essential-static/PH1-Images-NMJ88C.zip)
+* November 2017 Release | Nougat 7.1.1 - NMJ32F(Open Market/Sprint/Telus)
+Download : [OTA](https://storage.googleapis.com/essential-static/PH1-OTA-NMJ32F.zip) | [Image](https://storage.googleapis.com/essential-static/PH1-Images-NMJ32F.zip)
+* October 2017 Release | Nougat 7.1.1 - NMJ20D(Open Market)
+Download : [OTA](https://storage.googleapis.com/essential-static/PH1-OTA-NMJ20D.zip) | [Image](https://storage.googleapis.com/essential-static/PH1-Images-NMJ20D.zip)
+* October 2017 Release | Nougat 7.1.1 - NMI81C(Open Market/Sprint/Telus)
+Download : [OTA](https://storage.googleapis.com/essential-static/PH1-OTA-NMI81C.zip) | [Image](https://storage.googleapis.com/essential-static/PH1-Images-NMI81C.zip)
 
-#Flashing Instructions
+# Flashing Instructions
 
 * Set up your computer for flashing
 
@@ -40,23 +80,23 @@ Connect your Essential phone to your computer with a USB cable
 Enable unlocking
 Before you can flash a new image, ensure Developer options are enabled and OEM unlocking is turned on. To do this:
 
-Tap Settings, then tap System > About phone
+* Tap Settings, then tap System > About phone
 Scroll to the bottom of the page, then tap Build number multiple times until you see the pop-up message “You are now a developer” (It usually takes seven taps)
 Go back one screen to System, then tap Developer options
 Find the option: OEM Unlocking and turn it on
 Fastboot mode
 Put your Essential Phone into fastboot mode by doing either of the following:
 
-Use the ADB tool packaged above to run the command: adb reboot bootloader
+* Use the ADB tool packaged above to run the command: adb reboot bootloader
 Reboot your phone while holding the Volume-down button
 Unlock your bootloader
 NOTE: Installing the factory image will erase all information from your device. So remember to backup your phone before continuing.
 
-Run the command: fastboot flashing unlock
-Press the Volume-down button to navigate to the YES option, then press the Power button to confirm
+* Run the command: fastboot flashing unlock
+* Press the Volume-down button to navigate to the YES option, then press the Power button to confirm
 Flash your factory image
 
-Download the factory image to your computer
+* Download the factory image to your computer
 Unzip the downloaded file
 Go to where you unzipped the images
 For Linux / Mac OS X - Run the command: flashall.sh
@@ -64,5 +104,5 @@ For Windows - Run the command: flashall.bat
 Relock your bootloader (Only if you are on stock)
 After flashing, it’s a good idea to relock your bootloader for security.
 
-Go back to fastboot mode
+* Go back to fastboot mode
 Run the command: fastboot flashing lock
