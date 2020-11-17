@@ -26,7 +26,7 @@ Download : [OTA](https://storage.googleapis.com/essential-static/PH1-OTA-PQ1A.19
 * June 2019 Release | Pie 9 - P Release 11 - PQ1A.190105.077(Sprint)
 Download : [OTA](https://storage.cloud.google.com/essential-static/PH1-OTA-PQ1A.190105.077.zip) | [Image](https://storage.cloud.google.com/essential-static/PH1-Images-PQ1A.190105.077.zip)
 * May 2019 Release | Pie 9 - P Release 10 - PQ1A.190105.058
-Download : [OTA](https://storage.cloud.google.com/essential-static/PH1-OTA-PQ1A.190105.058.zip | [Image](https://storage.cloud.google.com/essential-static/PH1-Images-PQ1A.190105.058.zip)
+Download : [OTA](https://storage.cloud.google.com/essential-static/PH1-OTA-PQ1A.190105.058.zip) | [Image](https://storage.cloud.google.com/essential-static/PH1-Images-PQ1A.190105.058.zip)
 * April 2019 Release | Pie 9 - P Release 9 - PQ1A.190105.045
 Download : [OTA](https://storage.cloud.google.com/essential-static/PH1-OTA-PQ1A.190105.045.zip) | [Image](https://storage.cloud.google.com/essential-static/PH1-Images-PQ1A.190105.045.zip)
 
