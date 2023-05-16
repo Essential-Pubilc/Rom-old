@@ -1,5 +1,7 @@
+# Warning:These links are baned by the offical,please download from SouceForge web page or any place that can download the roms,and the roms'links below are the instuctrue from the Essential offical,you can follow the txt or other ways that can help you in flashing devices.
+
 # Rom-old
-The roms of the essential products ph-1 before
+The roms of the essential products ph-1 before.
 
 ## Android 11
 Vendor : [QQ1A.200105.088.img](https://storage.googleapis.com/essential-static/vendor-QQ1A.200105.088.zip)
