@@ -1,4 +1,7 @@
-# Warning:These links are baned by the offical,please download from SouceForge web page or any place that can download the roms,and the roms'links below are the instuctrue from the Essential offical,you can follow the txt or other ways that can help you in flashing devices.
+# Eng version
+# Warning:These links have been baned by the offical,please download from SouceForge web page or any place that can download the roms,and the roms'links below are the instuctrue from the Essential offical,you can follow the txt or other ways that can help you in flashing devices.
+# Chinese version(中文翻译)
+# 警告：这些链接已被官方所关闭，请从SouceForge或其他地方下载rom，这些rom下面的链接是官方的刷机指导，您可以跟随这些指导来进行刷机或者跟随别的指导进行刷机。
 
 # Rom-old
 The roms of the essential products ph-1 before.
